@@ -1,0 +1,2 @@
+class Govt < ApplicationRecord
+end

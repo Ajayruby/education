@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  father: MyString
+  name: MyString
+  age: 1
+  joining: MyString
+  year: 1
+  discription: MyText
+
+two:
+  name: MyString
+  father: MyString
+  name: MyString
+  age: 1
+  joining: MyString
+  year: 1
+  discription: MyText
